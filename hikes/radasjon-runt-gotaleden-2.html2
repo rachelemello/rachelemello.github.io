@@ -1,0 +1,294 @@
+<html>
+
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <style type="text/css">
+        ol {
+            margin: 0;
+            padding: 0
+        }
+
+        table td,
+        table th {
+            padding: 0
+        }
+
+        .c11 {
+            padding-top: 0pt;
+            padding-bottom: 3pt;
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        .c2 {
+            color: #000000;
+            font-weight: 400;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 26pt;
+            font-family: "Arial";
+            font-style: normal
+        }
+
+        .c9 {
+            color: #000000;
+            font-weight: 400;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 20pt;
+            font-family: "Arial";
+            font-style: normal
+        }
+
+        .c5 {
+            padding-top: 20pt;
+            padding-bottom: 6pt;
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        .c6 {
+            padding-top: 16pt;
+            padding-bottom: 4pt;
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        .c3 {
+            color: #434343;
+            font-weight: 400;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 14pt;
+            font-family: "Arial";
+            font-style: normal
+        }
+
+        .c0 {
+            color: #000000;
+            font-weight: 400;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Arial";
+            font-style: normal
+        }
+
+        .c1 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.15;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        .c7 {
+            text-decoration-skip-ink: none;
+            -webkit-text-decoration-skip: none;
+            color: #1155cc;
+            text-decoration: underline
+        }
+
+        .c10 {
+            background-color: #ffffff;
+            max-width: 451.4pt;
+            padding: 72pt 72pt 72pt 72pt
+        }
+
+        .c4 {
+            color: inherit;
+            text-decoration: inherit
+        }
+
+        .c8 {
+            height: 11pt
+        }
+
+        .title {
+            padding-top: 0pt;
+            color: #000000;
+            font-size: 26pt;
+            padding-bottom: 3pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        .subtitle {
+            padding-top: 0pt;
+            color: #666666;
+            font-size: 15pt;
+            padding-bottom: 16pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        li {
+            color: #000000;
+            font-size: 11pt;
+            font-family: "Arial"
+        }
+
+        p {
+            margin: 0;
+            color: #000000;
+            font-size: 11pt;
+            font-family: "Arial"
+        }
+
+        h1 {
+            padding-top: 20pt;
+            color: #000000;
+            font-size: 20pt;
+            padding-bottom: 6pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        h2 {
+            padding-top: 18pt;
+            color: #000000;
+            font-size: 16pt;
+            padding-bottom: 6pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        h3 {
+            padding-top: 16pt;
+            color: #434343;
+            font-size: 14pt;
+            padding-bottom: 4pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        h4 {
+            padding-top: 14pt;
+            color: #666666;
+            font-size: 12pt;
+            padding-bottom: 4pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        h5 {
+            padding-top: 12pt;
+            color: #666666;
+            font-size: 11pt;
+            padding-bottom: 4pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        h6 {
+            padding-top: 12pt;
+            color: #666666;
+            font-size: 11pt;
+            padding-bottom: 4pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            font-style: italic;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+    </style>
+</head>
+
+<body class="c10 doc-content">
+    <p class="c11 title" id="h.z2wwmlx8wmbu"><span class="c2">Sunday hike: R&aring;dasj&ouml;n runt &amp; Bohusleden
+            2</span></p>
+    <h1 class="c5" id="h.a11b9080wai3"><span class="c9">Schedule</span></h1>
+    <p class="c1"><span class="c0">11:00 meeting at Helenedal bus stop</span></p>
+    <p class="c1"><span class="c0">11:15 - 12:00 Walk north side of R&aring;dasj&ouml;n runt until R&aring;da
+            S&auml;teri</span></p>
+    <p class="c1"><span class="c0">12:00 - 13:00 Lunch break (packed or Cr&ecirc;pe et Ciel)</span></p>
+    <p class="c1"><span class="c0">13:00 - 14:30 Walk south side of R&aring;dasj&ouml;n runt until Gunnebo Slott</span>
+    </p>
+    <p class="c1"><span class="c0">14:30 - 15:15 Fika in Gunnebo Slott</span></p>
+    <p class="c1"><span class="c0">15:15 - 16:45 Walk Bohusleden 2 to Delsj&ouml;n</span></p>
+    <p class="c1"><span class="c0">16:45 - ??:?? Swim and chill in Delsj&ouml;n</span></p>
+    <p class="c1"><span class="c0">Back to the city</span></p>
+    <h1 class="c5" id="h.eparvb60cuxq"><span class="c9">Details</span></h1>
+    <h3 class="c6" id="h.33mryps8ngqx"><span class="c3">Hikes</span></h3>
+    <p class="c1"><span class="c0">We start at Helenedal and walk around the R&aring;dasj&ouml;n lake coming almost full
+            circle to the starting point, then proceed to Delsj&ouml;n via Bohusleden 2 (not all the way to
+            Skat&aring;s).</span></p>
+    <p class="c1"><span class="c0">It is also possible to join for just one of the 2 parts.</span></p>
+    <p class="c1 c8"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">R&aring;dasj&ouml;n runt:</span></p>
+    <p class="c1"><span class="c0">12km (we will hike ~10km)</span></p>
+    <p class="c1"><span class="c0">Easy hike partly on gravel roads in the forest, partly on asphalt, almost entirely
+            flat</span></p>
+    <p class="c1"><span class="c7"><a class="c4"
+                href="https://www.google.com/url?q=https://www.harryda.se/download/18.c0a4fce181800179102bb96/1661333814086/Radasjon%2520folder%25202014_LOW.pdf&amp;sa=D&amp;source=editors&amp;ust=1686919177219531&amp;usg=AOvVaw0QNsr_WOWTzP_bc0GsWngh">https://www.harryda.se/download/18.c0a4fce181800179102bb96/1661333814086/Radasjon%20folder%202014_LOW.pdf</a></span>
+    </p>
+    <p class="c1 c8"><span class="c0"></span></p>
+    <p class="c1"><span class="c0">Bohusleden 2:</span></p>
+    <p class="c1"><span class="c0">8km long (we will hike ~5km)</span></p>
+    <p class="c1"><span class="c0">Hike almost entirely on forest trails, quite hilly</span></p>
+    <p class="c1"><span class="c7"><a class="c4"
+                href="https://www.google.com/url?q=https://www.westswedentrails.com/en/etapp/2-stensjon-skatas&amp;sa=D&amp;source=editors&amp;ust=1686919177220134&amp;usg=AOvVaw31vNlKsVssMIksLzFFb2MO">https://www.westswedentrails.com/en/etapp/2-stensjon-skatas</a></span>
+    </p>
+    <p class="c1 c8"><span class="c0"></span></p>
+    <p class="c1"><span>Total ~15km.</span></p>
+    <h3 class="c6" id="h.fj7g7yf39u47"><span class="c3">Transport</span></h3>
+    <p class="c1"><span>We will meet at </span><span>Helenedal bus stop</span><span class="c0">&nbsp;at 11:00, please be
+            on time. Bus 753 stops here (from Heden or from M&ouml;lndal centrum), but it&rsquo;s not very frequent, so
+            please plan ahead.</span></p>
+    <p class="c1"><span class="c0">If you intend to only join for the first half, you can easily take the same bus back
+            when we get to Gunnebo around 14:30 (bus stop Gunnebo park).</span></p>
+    <p class="c1"><span class="c0">If you intend to only join for the second half, be at Gunnebo Slott around
+            14:30.</span></p>
+    <h3 class="c6" id="h.87068r1qregc"><span class="c3">Food &amp; Sights</span></h3>
+    <p class="c1"><span>Cr&ecirc;pe et Ciel (lunch place): </span><span class="c7"><a class="c4"
+                href="https://www.google.com/url?q=https://radasateri.harryda.se/ata/crepe-et-ciel&amp;sa=D&amp;source=editors&amp;ust=1686919177221005&amp;usg=AOvVaw2P-9PYuhNiFoyS1P3igidq">https://radasateri.harryda.se/ata/crepe-et-ciel</a></span><span
+            class="c0">&nbsp;</span></p>
+    <p class="c1"><span>Gunnebo slott (manor with gardens and cafe): </span><span class="c7"><a class="c4"
+                href="https://www.google.com/url?q=https://gunneboslott.se/en/&amp;sa=D&amp;source=editors&amp;ust=1686919177221262&amp;usg=AOvVaw3RLXvyNBmb2RpwzjniPqij">https://gunneboslott.se/en/</a></span><span
+            class="c0">&nbsp;</span></p>
+    <h3 class="c6" id="h.9eld4ew763lt"><span class="c3">What to bring</span></h3>
+    <p class="c1"><span class="c0">Don&rsquo;t forget water and snacks, and swimsuit and towel if you want to jump into
+            the lakes!</span></p>
+</body>
+
+</html>
